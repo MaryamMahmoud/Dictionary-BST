@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1556724393 source:c:\users\lenovo\desktop\bst_dictionary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1585517389 source:e:\computer&communication\term 4\data structures\assignments\bst_dictionary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
